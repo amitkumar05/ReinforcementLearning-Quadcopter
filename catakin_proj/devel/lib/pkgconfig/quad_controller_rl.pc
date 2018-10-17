@@ -1,0 +1,8 @@
+prefix=/mnt/hgfs/catakin_proj/devel
+
+Name: quad_controller_rl
+Description: Description of quad_controller_rl
+Version: 0.0.0
+Cflags: -I/mnt/hgfs/catakin_proj/devel/include
+Libs: -L/mnt/hgfs/catakin_proj/devel/lib 
+Requires: message_runtime std_msgs geometry_msgs std_srvs

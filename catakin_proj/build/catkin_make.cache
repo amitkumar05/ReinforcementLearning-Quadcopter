@@ -1,0 +1,2 @@
+quad_controller_rl
+-DCATKIN_DEVEL_PREFIX=/mnt/hgfs/catakin_proj/devel -DCMAKE_INSTALL_PREFIX=/mnt/hgfs/catakin_proj/install -G Unix Makefiles
